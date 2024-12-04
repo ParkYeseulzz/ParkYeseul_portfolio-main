@@ -39,7 +39,7 @@ const siteText = [
         text: ["make", "site compliant with", "react"],
         title: "리액트를 통해 포트폴리오 생성",
         code: "https://github.com/webstoryboy/port2023-next",
-        view: "https://port2023-next.netlify.app",
+        view: "https://parkyeseulportfolioreact.netlify.app",
         info: [
             "site coding",
             "production period : two days",
