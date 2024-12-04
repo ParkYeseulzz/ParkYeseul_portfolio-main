@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://websfont.github.io/nanumSquareNeo/nanumSquareNeo.css");
+@import url("https://websfont.github.io/gmarket/gmarket.css");
+
+
+/* Pretendard-Regular 추가 */
+@font-face {
+    font-family: 'Pretendard'; /* 폰트 이름 정의 */
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff'); /* 폰트 파일 경로 */
+}
+
+@font-face {
+    font-family: 'Pretendard-bold';
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-bold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+.mont {
+    font-family: "Montserrat";
+}
+.nanum {
+    font-family: "nanumSquareNeo";
+}
+.gmarket {
+    font-family: "gmarket";
+}
+
+.pretendard {
+    font-family: "Pretendard-Regular"; /* Pretendard */
+}
