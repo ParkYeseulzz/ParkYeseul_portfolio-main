@@ -22,7 +22,7 @@ const skillText = [
     },
     {
         title: "Certification",
-        desc: "정보처리산업기사, SQLD, 컴퓨터활용능력2급, MOS Excel, Mos Powerpoint",
+        desc:  "SQLD, 컴퓨터활용능력2급, MOS Excel, Mos Powerpoint",
     },
 ];
 
