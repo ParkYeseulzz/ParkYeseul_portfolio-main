@@ -28,7 +28,7 @@ const siteText = [
         text: ["Gas station/electric vehicle charging station", "information site", "and navigation site"],
         title: "주유소/전기차 충전소 정보 제공 및 현재 위치 기준 목적지 추천 시스템",
         code: "https://github.com/ParkYeseulzz/CARPLANET",
-        view: "https://port2023-vue.netlify.app",
+        view: "https://parkyeseul.tistory.com/48",
         info: [
             "site coding",
             "production period : 2024/11/04 - 2024/12/09",
